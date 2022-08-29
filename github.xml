@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="dkvechain" id="4ba44ef2-da7d-4d0c-b78d-094509be3f74">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
