@@ -3,6 +3,11 @@
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
