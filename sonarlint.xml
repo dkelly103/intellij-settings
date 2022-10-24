@@ -1,6 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9edf9edfcfdfcbdf9edf9ddf9bdfc9dfc9df9adfccdfc9df9fdf92df9bdf99dfcbdfcedf92df9ddf92dfcbdf9bdf99dfcedf9adf9edf9ddfcedf9cdf99dfcfdfc9dfccdf98dfccdf9cdfccdfc8df9e</token>
+          <option name="name" value="VeWorld" />
+          <organizationKey>vechainfoundation</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
