@@ -3,8 +3,9 @@
     <property name="created">2022-11-05T13:16:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-06T22:06:47</property>
+    <property name="modified">2022-11-07T09:12:37</property>
     <property name="originalScheme">Xcode Dark</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="417041" />
