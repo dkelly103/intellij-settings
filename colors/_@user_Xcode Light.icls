@@ -3,8 +3,9 @@
     <property name="created">2022-11-05T13:04:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-07T11:21:45</property>
+    <property name="modified">2022-11-07T12:54:37</property>
     <property name="originalScheme">Xcode Light</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="e8f2ff" />
