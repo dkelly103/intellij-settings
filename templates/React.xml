@@ -15,4 +15,10 @@
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="tryc" value="try {&#10;&#10;} catch (e) {&#10;    console.error(e)&#10;    &#10;}" description="Create try catch statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
