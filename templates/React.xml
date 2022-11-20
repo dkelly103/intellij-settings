@@ -21,4 +21,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="trycf" value="try {&#10;&#10;} catch (e) {&#10;    console.error(e)&#10;    &#10;} finally {&#10;&#10;}" description="Create try catch finally" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="thunk" value="const name =&#10;  (): AppThunk&lt;Promise&lt;void&gt;&gt; =&gt;&#10;  async (dispatch, getState) =&gt; {}" description="Create thunk" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
