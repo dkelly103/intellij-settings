@@ -1,8 +1,5 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
-    <disabledLanguages>
-      <option value="JSON" />
-    </disabledLanguages>
   </component>
 </application>
