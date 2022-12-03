@@ -6,6 +6,7 @@
     <variable name="TEXT_1" expression="" defaultValue="&quot;Send when the WebSocket connection is opened&quot;" alwaysStopAt="true" />
     <variable name="TEXT_2" expression="" defaultValue="&quot;Wait for the server message and send the current message as response&quot;" alwaysStopAt="true" />
     <variable name="TEXT_3" expression="" defaultValue="&quot;Send after previous message without waiting for the server message&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="gqlr" value="GRAPHQL $SCHEME$://$HOST$/$URL_PATH$&#10;&#10;query {&#10;    greetings&#10;}&#10;&#10;{&#10;  &quot;$VAR_NAME$&quot;: &quot;$VAR_VALUE$&quot;&#10;}&#10;&#10;###" description="GraphQL Request" toReformat="false" toShortenFQNames="true">
     <variable name="SCHEME" expression="enum(&quot;http&quot;, &quot;https&quot;, &quot;ws&quot;, &quot;wss&quot;)" defaultValue="" alwaysStopAt="true" />
@@ -13,5 +14,6 @@
     <variable name="URL_PATH" expression="" defaultValue="&quot;graphql&quot;" alwaysStopAt="true" />
     <variable name="VAR_NAME" expression="" defaultValue="&quot;varName&quot;" alwaysStopAt="true" />
     <variable name="VAR_VALUE" expression="" defaultValue="&quot;varValue&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
