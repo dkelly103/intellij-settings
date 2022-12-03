@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="ReactCom" value="const TestComponent: React.FC = () =&gt; {&#10;  return &lt;&gt;&lt;/&gt;&#10;}&#10;&#10;export default TestComponent&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_CLASS_MEMBER_STATEMENT" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

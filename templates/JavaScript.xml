@@ -1,0 +1,5 @@
+<templateSet group="JavaScript">
+  <template name="error" value="console.error($END$)" description="console.error()" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="Shell Script">
+  <template name="shebang" value="#!/bin/sh" description="Add shell shebang" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
