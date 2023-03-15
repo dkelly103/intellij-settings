@@ -2,6 +2,11 @@
   <component name="SonarLintGlobalSettings">
     <option name="rulesByKey">
       <map>
+        <entry key="typescript:S4325">
+          <value>
+            <Rule active="false" key="typescript:S4325" />
+          </value>
+        </entry>
         <entry key="typescript:S6479">
           <value>
             <Rule active="false" key="typescript:S6479" />
@@ -21,6 +26,7 @@
     </option>
     <rules>
       <Rule active="false" key="typescript:S6479" />
+      <Rule active="false" key="typescript:S4325" />
     </rules>
   </component>
 </application>
