@@ -1,5 +1,19 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="typescript:S4325">
+          <value>
+            <Rule active="false" key="typescript:S4325" />
+          </value>
+        </entry>
+        <entry key="typescript:S6479">
+          <value>
+            <Rule active="false" key="typescript:S6479" />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -10,6 +24,9 @@
         </SonarQubeServer>
       </list>
     </option>
-    <rules />
+    <rules>
+      <Rule active="false" key="typescript:S6479" />
+      <Rule active="false" key="typescript:S4325" />
+    </rules>
   </component>
 </application>
