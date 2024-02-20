@@ -11,5 +11,11 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.tsx,*.ts</mask>
+    <mask>*.feature</mask>
+    <mask>*.ts</mask>
+    <mask>.spec.tsx</mask>
+    <mask>*.spec.tsx</mask>
+    <mask>*tsx</mask>
   </component>
 </application>

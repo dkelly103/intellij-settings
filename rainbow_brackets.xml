@@ -1,5 +1,9 @@
 <application>
   <component name="RainbowSettings">
-    <option name="version" value="6.23" />
+    <option name="bigFilesLinesThreshold" value="5000" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="rainbowifyTagNameInXML" value="true" />
+    <option name="version" value="2023.2.6-ij" />
   </component>
 </application>
